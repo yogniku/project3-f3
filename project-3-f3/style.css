@@ -1,0 +1,47 @@
+.container{
+
+width: 1728px;
+height: 1310px;
+top: -557px;
+left: -1219px;
+gap: 0px;
+opacity: 0px;
+border: 1px solid rgb(40, 38, 38);
+}
+h1{
+    text-align: center;
+    color: black;
+}
+button{
+    background-color: black;
+    color: white;
+}
+
+#add-item{
+    justify-content: space-between;
+    display: center;
+}
+.AccioJob-Assignment{
+width: 1659px;
+height: 80px;
+top: 314px;
+left: 44px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+background-color: black;
+color: white;
+margin-bottom: 20px;
+}
+
+section{
+width: 1659px;
+height: 80px;
+top: 314px;
+left: 44px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid black;
+margin-bottom: 20px;
+}
